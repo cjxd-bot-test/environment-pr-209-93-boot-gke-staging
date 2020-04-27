@@ -1,4 +1,7 @@
 dependencies:
+- name: bdd-gh-1587991304
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-spring-1587990170
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
